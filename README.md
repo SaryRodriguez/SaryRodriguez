@@ -1,6 +1,6 @@
 ## Hej! 🙋‍♀️
 
-Hi, I'm Sara. Business Scientist 👩‍🔬 who combines analytics with engineering unlocking insights from data.
+Hi, I'm Sara. Business Scientist 👩‍🔬 who combines analytics with engineering to unlock insights from data.
 
 I specialize in developing internal ML tools that streamline workflows, and automate repetitive tasks that enable teams to make more informed decisions 📈. 
 

@@ -1,3 +1,6 @@
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/1fc10821-854b-462c-9f5c-9e2e6e1fcb91" />
+
+
 ## Hej! 🙋‍♀️
 
 Hi, I'm Sara. Business Scientist 👩‍🔬 who combines analytics with engineering to unlock insights from data.
